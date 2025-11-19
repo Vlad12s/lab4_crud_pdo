@@ -49,7 +49,7 @@ docker compose up -d
 ### 3. Відкрити застосунок
 http://localhost:8080
 
-### 5. Підключення до MySQL
+### 4. Підключення до MySQL
 - host: localhost  
 - port: 3306  
 - user: app  
